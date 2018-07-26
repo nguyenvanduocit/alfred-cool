@@ -28,4 +28,4 @@ Select the word to copy to clipboard.
 
 ## License
 
-MIT © [Duoc Nguye](https://12bit.vn)
+MIT © [Duoc Nguyen](https://12bit.vn)
