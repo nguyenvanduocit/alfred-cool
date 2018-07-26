@@ -1,4 +1,4 @@
-# alfred-cool
+# alfred-cool [![Build Status](https://travis-ci.org/nguyenvanduocit/alfred-cool.svg?branch=master)](https://travis-ci.org/nguyenvanduocit/alfred-cool)
 
 > [Alfred 3](https://www.alfredapp.com) workflow to find cool words.
 
