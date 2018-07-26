@@ -1,0 +1,19 @@
+{
+  "name": "alfred-cool",
+  "version": "1.0.0",
+  "description": "Get cool words",
+  "author": {
+    "name": "Duoc Nguyen",
+    "email": "nguyenvanduocit@gmail.com",
+    "url": "12bit.vn"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "dependencies": {
+    "alfy": "*",
+    "superb": "^3.0.0",
+    "yes-no-words": "^1.3.0"
+  }
+}
